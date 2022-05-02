@@ -1,1 +1,1 @@
-# covidstop.github.io
+# covidstop.uz
