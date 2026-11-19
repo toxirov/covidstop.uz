@@ -1,1 +1,1 @@
-# covidstop.uz
+# covidstop
